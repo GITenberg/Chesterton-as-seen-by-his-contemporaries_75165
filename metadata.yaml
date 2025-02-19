@@ -1,0 +1,56 @@
+_repo: Chesterton-as-seen-by-his-contemporaries_75165
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Bentley, E. C. (Edmund Clerihew)
+    aliases:
+    - Clerihew, E. (Edmund)
+    - Bentley, Edmund Clerihew
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '968'
+    url: http://www.gutenberg.org/2009/agents/968
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Clerihew_Bentley
+  illustrator:
+    agent_name: Massaguer, Conrado Walter
+    aliases:
+    - Díaz, Conrado Walter Massaguer
+    - Diaz, Conrado Walter Massaguer
+    birthdate: 1889
+    deathdate: 1965
+    gutenberg_agent_id: '57862'
+    url: http://www.gutenberg.org/2009/agents/57862
+    wikipedia: https://en.wikipedia.org/wiki/Conrado_Walter_Massaguer
+creator:
+  author:
+    agent_name: Clemens, Cyril
+    birthdate: 1902
+    deathdate: 1999
+    gutenberg_agent_id: '57861'
+    url: http://www.gutenberg.org/2009/agents/57861
+description: ''
+gutenberg_issued: '2025-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75165'
+  lccn: '40008856'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015030724820
+pgterms:marc905: 20210125050446clemens
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aWebster Groves, MO :$bInternational Mark Twain Society, $c1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biographical series (International Mark Twain Society) ; no. 8.
+subjects:
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936'
+- !lcsh 'Authors, English -- 20th century -- Biography'
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936 -- Contemporaries'
+- !lcc 'PR'
+- GITenberg
+title: Chesterton, as seen by his contemporaries
+url: http://www.gutenberg.org/ebooks/75165
