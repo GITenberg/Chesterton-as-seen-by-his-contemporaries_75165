@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '57862'
     url: http://www.gutenberg.org/2009/agents/57862
     wikipedia: https://en.wikipedia.org/wiki/Conrado_Walter_Massaguer
+covers:
+- cover_type: archival
+  image_path: 75165-h/images/cover.jpg
 creator:
   author:
     agent_name: Clemens, Cyril
@@ -29,6 +32,8 @@ creator:
     gutenberg_agent_id: '57861'
     url: http://www.gutenberg.org/2009/agents/57861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75165#Chesterton-as-seen-by-his-contemporaries
 gutenberg_issued: '2025-01-21'
 gutenberg_type: Text
 identifiers:
